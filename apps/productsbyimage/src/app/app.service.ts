@@ -24,7 +24,7 @@ export class AppService {
         },
         headers: {
           'x-rapidapi-host': 'magic-aliexpress1.p.rapidapi.com',
-          'x-rapidapi-key': '822cbf0e2cmsh60b334133e53159p14fc46jsn0b95ce1d8644'
+          'x-rapidapi-key': 'Your_TOKEN'
         }
       })
     } catch (e) {
